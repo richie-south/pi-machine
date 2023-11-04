@@ -1,0 +1,12 @@
+/pi-machine/build/linux/x64/release/bundle/ultimate_pi_desktop
+/pi-machine/build/linux/x64/release/bundle/data/icudtl.dat
+/pi-machine/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/pi-machine/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.bin
+/pi-machine/build/linux/x64/release/bundle/lib/libapp.so

@@ -1,0 +1,14 @@
+/pi-machine/build/linux/x64/release/CMakeFiles/ultimate_pi_desktop.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/edit_cache.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/rebuild_cache.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/list_install_components.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/install.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/install/local.dir
+/pi-machine/build/linux/x64/release/CMakeFiles/install/strip.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/flutter_assemble.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/edit_cache.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/rebuild_cache.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/list_install_components.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/install.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/install/local.dir
+/pi-machine/build/linux/x64/release/flutter/CMakeFiles/install/strip.dir
